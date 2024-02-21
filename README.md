@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samimwaura
 - 👀 I’m interested in ... software engineering 
-- 🌱 I’m currently learning ...languages of programming 
+- 🌱 I’m currently learning ...python, visual basic, html, css, javascipt, julia, rust ....
 - 💞️ I’m looking to collaborate on ...software developments
 - 📫 How to reach me ...samuelmwaura350@gmail.com
 - 😄 Pronouns: ...he
